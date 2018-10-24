@@ -9,3 +9,13 @@ img{
 body{
   color: #3333ff;
 }
+
+.foot{
+  background-color: cyan;
+  color: white;
+  align-content: center;
+  align-items: center;
+  align: center;
+  text-align: center;
+
+}
